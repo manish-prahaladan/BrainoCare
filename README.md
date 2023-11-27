@@ -1,6 +1,6 @@
 # BrainoCare
 
-This is a tool used to predict brain tumor from MRI images. It can classify menigioma, glioma, pituitary tumors. It can also indicate the absence of tumor. Flask, Jupyter Notebook have been utilized in creating this application. This tool is based on Deep Learning Methodology, utilizing Convolutional Neural Network.
+This is a tool used to predict brain tumor from MRI images. It can classify menigioma, glioma, pituitary tumors. It can also indicate the absence of tumor. Flask, Jupyter Notebook have been utilized in creating this application. This tool is based on Deep Learning Methodology, utilizing Convolutional Neural Network. For more details, please refer this paper published by my team - https://journal.ijresm.com/index.php/ijresm/article/view/2709
 
 <img width="1272" alt="Screenshot 2023-11-27 at 12 17 14 PM" src="https://github.com/manish-prahaladan/BrainoCare/assets/80478435/7a4d0bd9-cde6-4191-82a2-a4a965454aaf">
 
